@@ -1,0 +1,1 @@
+Introducing litebrowser, the newest and lightest browser in the world. This project has been designed to provide users with a fast and efficient browsing experience, with a focus on minimalism and speed. With litebrowser, users can enjoy quick and seamless web browsing without unnecessary bulk or lag
